@@ -57,7 +57,7 @@ const handleSubmit = async () => {
 
 onMounted(async () => {
   try {
-    const response = await axios.get(`/api/jobs/${jobId}`);
+    const response = await axios.get(`https://json-server-1-wn3q.onrender.com/jobs/${jobId}`);
     state.job = response.data;
     // Populate inputs
     form.type = state.job.type;
