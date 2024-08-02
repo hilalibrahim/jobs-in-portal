@@ -1,0 +1,186 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "HR Manager",
+      "type": "Full-Time",
+      "location": "Mumbai, MH",
+      "description": "We are seeking a talented HR Manager to join our team in Mumbai. The ideal candidate will have strong skills in employee relations, recruitment, and performance management.",
+      "salary": "INR 8L - 10L",
+      "company": {
+        "name": "Zenith Solutions",
+        "description": "Zenith Solutions is a leading HR consulting firm specializing in talent acquisition and employee engagement. We pride ourselves on delivering high-quality HR services while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@zenithsolutions.in",
+        "contactPhone": "022-55555555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Video Editor",
+      "type": "Part-Time",
+      "location": "Remote",
+      "description": "Join our team as a Video Editor. We are looking for a creative individual with a passion for crafting visually engaging videos. Experience with Adobe Premiere Pro and After Effects is highly desirable.",
+      "salary": "INR 5L - 7L",
+      "company": {
+        "name": "Creative Studios",
+        "description": "Creative Studios is a media production company specializing in video content creation and digital storytelling. Our team is dedicated to pushing the boundaries of creativity to deliver exceptional results for our clients.",
+        "contactEmail": "contact@creativestudios.in",
+        "contactPhone": "080-55555555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Web Developer",
+      "type": "Full-Time",
+      "location": "Hyderabad, TS",
+      "description": "Are you passionate about web development? Join our team in Hyderabad and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "INR 6L - 8L",
+      "company": {
+        "name": "Tech Innovations",
+        "description": "Tech Innovations is a leading technology company specializing in web development and digital solutions. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@techinnovations.in",
+        "contactPhone": "040-55555555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "location": "WFH",
+      "description": "Join our team as a React.js Developer. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "INR 7L - 9L",
+      "company": {
+        "name": "Digital Hub",
+        "description": "Digital Hub is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@digitalhub.in",
+        "contactPhone": "020-55555555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Developer",
+      "type": "Full-Time",
+      "location": "Chennai, TN",
+      "description": "Exciting opportunity for a Full Stack Developer in Chennai. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "salary": "INR 8L - 10L",
+      "company": {
+        "name": "Innovative Solutions",
+        "description": "Innovative Solutions is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@innovativesolutions.in",
+        "contactPhone": "044-55555555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Product Manager",
+      "type": "Full-Time",
+      "location": "Delhi, DL",
+      "description": "Join our team as a Product Manager in Delhi. We are looking for a skilled and enthusiastic individual to help us create innovative products. Competitive salary and great benefits package available.",
+      "salary": "INR 12L - 15L",
+      "company": {
+        "name": "MetroTech",
+        "description": "MetroTech is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@metrotech.in",
+        "contactPhone": "011-55555555"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Backend Developer",
+      "type": "Full-Time",
+      "location": "Kolkata, WB",
+      "description": "We are seeking a talented Backend Developer to join our team in Kolkata. The ideal candidate will have strong skills in server-side programming and database management.",
+      "salary": "INR 7L - 9L",
+      "company": {
+        "name": "TechEdge",
+        "description": "TechEdge is a leading technology firm specializing in custom software solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@techedge.in",
+        "contactPhone": "033-55555555"
+      }
+    },
+    {
+      "id": "8",
+      "title": "UI/UX Designer",
+      "type": "Part-Time",
+      "location": "Ahmedabad, GJ",
+      "description": "Join our team as a UI/UX Designer in Ahmedabad. We are looking for a creative individual with a passion for designing intuitive and engaging user interfaces. Experience with design tools such as Sketch and Figma is highly desirable.",
+      "salary": "INR 6L - 8L",
+      "company": {
+        "name": "Design Hub",
+        "description": "Design Hub is a creative agency specializing in UI/UX design and digital branding. Our team is dedicated to pushing the boundaries of creativity to deliver exceptional results for our clients.",
+        "contactEmail": "contact@designhub.in",
+        "contactPhone": "079-55555555"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Data Scientist",
+      "type": "Full-Time",
+      "location": "Gurgaon, HR",
+      "description": "We are looking for a talented Data Scientist to join our team in Gurgaon. The ideal candidate will have strong skills in data analysis, machine learning, and statistical modeling.",
+      "salary": "INR 10L - 12L",
+      "company": {
+        "name": "Data Solutions",
+        "description": "Data Solutions is a leading analytics company specializing in data-driven solutions for businesses. We are committed to delivering cutting-edge products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@datasolutions.in",
+        "contactPhone": "0124-55555555"
+      }
+    },
+    {
+      "id": "10",
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "location": "WFH",
+      "description": "Join our team as a DevOps Engineer. We are looking for a skilled and enthusiastic individual to help us automate and streamline our operations. Competitive salary and great benefits package available.",
+      "salary": "INR 8L - 10L",
+      "company": {
+        "name": "Cloud Solutions",
+        "description": "Cloud Solutions is a leading technology company specializing in cloud computing and DevOps services. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@cloudsolutions.in",
+        "contactPhone": "0120-55555555"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Marketing Manager",
+      "type": "Full-Time",
+      "location": "Kochi, KL",
+      "description": "We are seeking a talented Marketing Manager to join our team in Kochi. The ideal candidate will have strong skills in digital marketing, brand management, and market research.",
+      "salary": "INR 9L - 11L",
+      "company": {
+        "name": "MarketWave",
+        "description": "MarketWave is a leading marketing agency specializing in digital marketing and brand management. We pride ourselves on delivering high-quality marketing services while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@marketwave.in",
+        "contactPhone": "0484-55555555"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Content Writer",
+      "type": "Part-Time",
+      "location": "Kozhikode, KL",
+      "description": "Join our team as a Content Writer in Kozhikode. We are looking for a creative individual with a passion for writing engaging and informative content. Experience with SEO and digital marketing is highly desirable.",
+      "salary": "INR 5L - 7L",
+      "company": {
+        "name": "Content Creators",
+        "description": "Content Creators is a digital marketing agency specializing in content creation and SEO. Our team is dedicated to crafting compelling content that drives engagement and achieves our clients' goals.",
+        "contactEmail": "contact@contentcreators.in",
+        "contactPhone": "0495-55555555"
+      }
+    },
+    {
+      "id": "11c6",
+      "title": "Vue.js Intern",
+      "type": "Internship",
+      "location": "Kochi",
+      "description": "We are offering an exciting internship opportunity for a budding Vue.js developer. As a Vue.js Intern, you will work closely with our experienced development team on real-world projects. This is a great opportunity to enhance your skills and gain practical experience in front-end development",
+      "salary": "Under ₹4L",
+      "company": {
+        "name": "FutureTech Solutions",
+        "description": "FutureTech Solutions is a leading technology company specializing in web development and digital transformation. We are committed to nurturing young talent and providing a platform for learning and growth.",
+        "contactEmail": "internships@futuretech.in",
+        "contactPhone": "080-55555555"
+      }
+    }
+  ]
+}
